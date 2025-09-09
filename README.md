@@ -50,6 +50,11 @@ npm run dev
 └── public            # Arquivos estáticos
 ```
 
+
+## Deploy online disponivel em:
+
+-[Vercel](
+https://argos-frontend.vercel.app/)
 ## Decisões Técnicas
 - **React + Vite**: desempenho e DX elevados.
 - **Tailwind + shadcn/ui**: agilidade na criação de interfaces com design consistente.
